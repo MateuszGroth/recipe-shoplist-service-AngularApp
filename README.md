@@ -6,6 +6,8 @@ To run the app you will need Angular installed on ur pc.
 The only additional node_module used in the app is bootstrap.
 To install bootsrap you need to run
 
-{ npm install bootstrap3@ --save }
+```bash
+npm install bootstrap3@ --save
+```
 
 in your console.
